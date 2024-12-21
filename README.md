@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Dinuka Rathnayake. I'm a 3rd year Software Engineering undergraduate at SLIIT. 👋
 
 <!--
 **sdinukarathnayake/sdinukarathnayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
