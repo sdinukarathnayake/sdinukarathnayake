@@ -1,5 +1,10 @@
 Hi, I'm Dinuka Rathnayake. I'm a 3rd year Software Engineering undergraduate at SLIIT. 👋
 
+## 🛠️ Languages & Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdinukarathnayake&layout=compact)
+
+
 <!--
 **sdinukarathnayake/sdinukarathnayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
