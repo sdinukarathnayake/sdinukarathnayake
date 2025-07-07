@@ -1,8 +1,7 @@
 Hi, I'm Dinuka Rathnayake. I'm a 3rd year Software Engineering undergraduate at SLIIT. 👋
 
-## 🛠️ Languages & Tools
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdinukarathnayake&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdinukarathnayake&show_icons=true)
 
 
 <!--
