@@ -3,6 +3,12 @@ Hi, I'm Dinuka Rathnayake. I'm a 3rd year Software Engineering undergraduate at 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdinukarathnayake&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdinukarathnayake&show_icons=true)
 
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
+
+<img src="https://myreadme.vercel.app/api/embed/sdinukarathnayake?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
+
 
 <!--
 **sdinukarathnayake/sdinukarathnayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
