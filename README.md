@@ -2,7 +2,7 @@ Hi, I'm Dinuka Rathnayake. I'm a 3rd year Software Engineering undergraduate at 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdinukarathnayake&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdinukarathnayake&layout=compact&langs_count=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdinukarathnayake&layout=compact&langs_count=10)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdinukarathnayake&show_icons=true)
 
